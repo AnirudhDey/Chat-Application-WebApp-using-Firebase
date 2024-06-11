@@ -44,7 +44,7 @@ Firestore Real-time Updates: Enables instant delivery and synchronization of mes
 Getting Started
 
 **Prerequisites:**
-Node.js
-Firebase account
+1) Node.js
+2) Firebase account
 
 
